@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-deploy-spa/static/css/main.6838fc74.chunk.css",
+    "main.js": "/react-deploy-spa/static/js/main.816a9730.chunk.js",
+    "main.js.map": "/react-deploy-spa/static/js/main.816a9730.chunk.js.map",
+    "runtime-main.js": "/react-deploy-spa/static/js/runtime-main.bf83d0f0.js",
+    "runtime-main.js.map": "/react-deploy-spa/static/js/runtime-main.bf83d0f0.js.map",
+    "static/js/2.afdc5195.chunk.js": "/react-deploy-spa/static/js/2.afdc5195.chunk.js",
+    "static/js/2.afdc5195.chunk.js.map": "/react-deploy-spa/static/js/2.afdc5195.chunk.js.map",
+    "static/js/3.828742d9.chunk.js": "/react-deploy-spa/static/js/3.828742d9.chunk.js",
+    "static/js/3.828742d9.chunk.js.map": "/react-deploy-spa/static/js/3.828742d9.chunk.js.map",
+    "index.html": "/react-deploy-spa/index.html",
+    "static/css/main.6838fc74.chunk.css.map": "/react-deploy-spa/static/css/main.6838fc74.chunk.css.map",
+    "static/js/2.afdc5195.chunk.js.LICENSE.txt": "/react-deploy-spa/static/js/2.afdc5195.chunk.js.LICENSE.txt",
+    "static/media/items.css": "/react-deploy-spa/static/media/Roboto-Light.8be2d148.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf83d0f0.js",
+    "static/js/2.afdc5195.chunk.js",
+    "static/css/main.6838fc74.chunk.css",
+    "static/js/main.816a9730.chunk.js"
+  ]
+}
