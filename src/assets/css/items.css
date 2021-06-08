@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Roboto; /* Имя шрифта */
+    src: url(../fonts/Roboto-Light.ttf);
+}
+
+.Items {
+    font-family: Roboto;
+    margin: 20px;
+}
+
+.header {
+    display:flex;
+    padding-bottom: 10px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+.main__table {
+    font-weight: 300;
+    letter-spacing: 0.05cm;
+}
+
+.main__table__body th td {
+    font-weight: lighter;
+}
+
+.main__compare {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.main__compare__head {
+    text-align: center;
+}

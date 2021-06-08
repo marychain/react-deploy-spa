@@ -1,0 +1,17 @@
+table {
+    padding-top: 30px;
+    table-layout: fixed;
+    width: 20%;
+  }
+  
+thead th {
+    width: 10%;
+    border-bottom: 2px solid rgb(182, 181, 181);
+  }
+
+th,
+td {
+    text-align: center;
+    border-bottom: 1px solid rgb(182, 181, 181);
+    height: 30px;
+}

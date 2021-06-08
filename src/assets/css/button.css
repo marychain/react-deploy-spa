@@ -1,0 +1,20 @@
+.button {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(99, 240, 233);
+    border-radius: 0 5px 5px 0;
+    border: none;
+}
+
+.button:hover {
+    background-color: rgb(110, 214, 209);  
+}
+
+.button:active {
+    background-color: rgb(99, 240, 233);
+}
+
+.main__compare__items__button {
+    border-radius: 5px; 
+    margin: 5px; 
+}
